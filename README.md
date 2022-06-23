@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **data science projects**
 
-- 💬 Ask me about **Dart/Flutter , python , C/C, Data Analysis, IT ++**
+- 💬 Ask me about **Dart/Flutter , python , C/C++, Data Analysis, IT ++**
 
 - 📫 How to reach me **bono@opmediaplus.com**
 
