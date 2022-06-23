@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aurelien mbelle bono</h1>
-<h3 align="center">Un développeur mobile , edutiant en machin learning passionné du IT</h3>
+<h3 align="center">A passionate software developer from cameroon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedbug10&label=Profile%20views&color=0e75b6&style=flat" alt="bedbug10" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **data science projects**
 
-- 💬 Ask me about **Dart/Flutter , python , C/C++**
+- 💬 Ask me about **Dart/Flutter , python , C/C, Data Analysis, IT ++**
 
-- 📫 How to reach me **bonombelleaurelien08@gmail.com**
+- 📫 How to reach me **bono@opmediaplus.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
