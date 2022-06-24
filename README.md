@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aurelien mbelle bono</h1>
-<h3 align="center">A passionate software developer from cameroon</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aurelienbono&label=Profile%20views&color=0e75b6&style=flat" alt="aurelienbono" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bedbug10&label=Profile%20views&color=0e75b6&style=flat" alt="bedbug10" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bedbug10" alt="bedbug10" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aurelienbono" alt="aurelienbono" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aurelien_mbelle" target="blank"><img src="https://img.shields.io/twitter/follow/aurelien_mbelle?logo=twitter&style=for-the-badge" alt="aurelien_mbelle" /></a> </p>
 
@@ -11,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **data science projects**
 
-- 💬 Ask me about **Dart/Flutter , python , C/C++, Data Analysis, IT ++**
+- 💬 Ask me about **Dart/Flutter , python , C/C++**
 
-- 📫 How to reach me **bono@opmediaplus.com**
+- 📫 How to reach me **bonombelleaurelien08@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -23,10 +21,10 @@
 <p align="left">
 <a href="https://dev.to/bedbug10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bedbug10" height="30" width="40" /></a>
 <a href="https://twitter.com/aurelien_mbelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aurelien_mbelle" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/aurelien-mbelle-bono-1ba339227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/aurelien-mbelle-bono-1ba339227" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/aurelienbonombelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aurelienbonombelle" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/aurelienmbelle.bono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/aurelienmbelle.bono" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/aurelien_mbelle_bono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aurelien_mbelle_bono" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aurelien-mbelle-bono-1ba339227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurelien-mbelle-bono-1ba339227" height="30" width="40" /></a>
+<a href="https://kaggle.com/aurelienbonombelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aurelienbonombelle" height="30" width="40" /></a>
+<a href="https://fb.com/aurelienmbelle.bono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aurelienmbelle.bono" height="30" width="40" /></a>
+<a href="https://instagram.com/aurelien_mbelle_bono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aurelien_mbelle_bono" height="30" width="40" /></a>
 <a href="https://medium.com/@bonombelleaurelien08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bonombelleaurelien08" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyxwn1-bfoept6eqwk8bn1g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyxwn1-bfoept6eqwk8bn1g" height="30" width="40" /></a>
 </p>
@@ -39,9 +37,9 @@
 <p><a href="https://www.buymeacoffee.com/bedbug"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bedbug" /></a><a href="https://ko-fi.com/bedbug"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bedbug" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bedbug10&show_icons=true&locale=en&layout=compact" alt="bedbug10" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurelienbono&show_icons=true&locale=en&layout=compact" alt="aurelienbono" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bedbug10&show_icons=true&locale=en" alt="bedbug10" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aurelienbono&show_icons=true&locale=en" alt="aurelienbono" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bedbug10&" alt="bedbug10" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aurelienbono&" alt="aurelienbono" /></p>
 
