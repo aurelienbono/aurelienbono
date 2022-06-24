@@ -26,7 +26,7 @@
 <a href="https://fb.com/aurelienmbelle.bono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aurelienmbelle.bono" height="30" width="40" /></a>
 <a href="https://instagram.com/aurelien_mbelle_bono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aurelien_mbelle_bono" height="30" width="40" /></a>
 <a href="https://medium.com/@bonombelleaurelien08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bonombelleaurelien08" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyxwn1-bfoept6eqwk8bn1g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyxwn1-bfoept6eqwk8bn1g" height="30" width="40" /></a>
+<a href=https://www.youtube.com/channel/ucyxwn1-bfoept6eqwk8bn1g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyxwn1-bfoept6eqwk8bn1g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
