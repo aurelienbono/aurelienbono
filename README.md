@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **data science projects**
 
-- 💬 Ask me about **Dart/Flutter , python , C/C++**
+- 💬 Ask me about **Dart/Flutter , python , C/C++, DataBase **
 
-- 📫 How to reach me **bonombelleaurelien08@gmail.com**
+- 📫 How to reach me **bonombelleaurelien@outlook.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
