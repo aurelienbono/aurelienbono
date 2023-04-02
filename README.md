@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/aurelien_mbelle" target="blank"><img src="https://img.shields.io/twitter/follow/aurelien_mbelle?logo=twitter&style=for-the-badge" alt="aurelien_mbelle" /></a> </p>
 
-- 🌱 I’m currently learning **machine learning(NLP)**
+- 🌱 I am learning **machine learning , deep learning , federated machine learning , mlops , software engineering**
 
-- 👯 I’m looking to collaborate on **data science projects**
+- 👯 I am looking to collaborate on data science, machine learning, deeplearning and django and flask development projects.
 
-- 💬 Ask me about **Dart/Flutter , python , C/C++, DataBase **
+- 💬 Ask me about **Python , Pytorch  C/C++, DataBase , Data Lake , DL/ML/AI **
 
 - 📫 How to reach me **bonombelleaurelien@outlook.com**
 
